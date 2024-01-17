@@ -8,6 +8,25 @@ jobs:
   alignement:
     runs-on: ubuntu-latest
     steps:
+      - name: Create GitHub App Token
+        uses: actions/create-github-app-token@v1.6.3
+        id: generate-token
+        with:
+          app-id: ${{ secrets.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_KEY }}
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+          submodules: recursive
       - run: |
-          echo "Alignement"
-          echo ${{ github.event.client_payload }}
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github@actions.com"
+      - run: |
+          git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
+          cd ${{ github.event.client_payload.repository }}
+          git checkout ${{ github.event.client_payload.branch }}
+          git pull origin ${{ github.event.client_payload.branch }}
+          cd ..
+          git add ${{ github.event.client_payload.repository }}
+          git commit -m "Update ${{ github.event.client_payload.repository }} to ${{ github.event.client_payload.sha }}"
+          git push origin ${{ github.event.client_payload.branch }}
