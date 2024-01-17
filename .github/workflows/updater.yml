@@ -1,0 +1,13 @@
+name: Updater
+
+on:
+  repository_dispatch:
+    types: [alignement]
+
+jobs:
+  alignement:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          echo "Alignement"
+          echo ${{ github.event.client_payload }}
