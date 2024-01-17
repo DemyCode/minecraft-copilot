@@ -1,11 +1,11 @@
-name: Updater
+name: Alignment
 
 on:
   repository_dispatch:
-    types: [alignement]
+    types: [alignment]
 
 jobs:
-  alignement:
+  alignment:
     runs-on: ubuntu-latest
     steps:
       - name: Create GitHub App Token
