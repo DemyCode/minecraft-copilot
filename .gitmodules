@@ -1,0 +1,6 @@
+[submodule "minecraft-copilot-mod"]
+	path = minecraft-copilot-mod
+	url = git@github.com-demycode:DemyCode/minecraft-copilot-mod.git
+[submodule "minecraft-copilot-ml"]
+	path = minecraft-copilot-ml
+	url = git@github.com-demycode:DemyCode/minecraft-copilot-ml.git
