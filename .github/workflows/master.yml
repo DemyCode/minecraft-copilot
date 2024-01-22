@@ -23,5 +23,8 @@ jobs:
         with:
           node-version: 21
       - run: npm install -g commit-and-tag-version
+      - run: |
+          git config --global user.name "DemyCode"
+          git config --global user.email "verycols@gmail.com"
       - run: commit-and-tag-version
       - run: git push --follow-tags
