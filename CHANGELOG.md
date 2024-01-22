@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file. See [commit
 
 ### Bug Fixes
 
+* rendering only at the right time :) ([9931e74](https://github.com/DemyCode/minecraft-copilot/commit/9931e74a1646d819da007c7abfd310cb5dbb8ef9))
+
+## 1.0.1 (2024-01-22)
+
+
+### Bug Fixes
+
 * putting message of commit in quotes ([34edb34](https://github.com/DemyCode/minecraft-copilot/commit/34edb344740a9b53d76d090ea476728bbd74ee9d))
 
 ## 1.0.1 (2024-01-22)
