@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file. See [commit
 
 ## 1.0.1 (2024-01-22)
 
+
+### Bug Fixes
+
+* added no ci to commit publish ([fd51ac9](https://github.com/DemyCode/minecraft-copilot/commit/fd51ac9897b8619fe5b4c1febea9b637b6476223))
+
+## 1.0.1 (2024-01-22)
+
 ## 1.0.1 (2024-01-22)
 
 ## 1.0.1 (2024-01-22)
