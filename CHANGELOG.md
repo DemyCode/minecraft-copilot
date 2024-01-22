@@ -14,6 +14,8 @@ All notable changes to this project will be documented in this file. See [commit
 
 ## 1.0.1 (2024-01-22)
 
+## 1.0.1 (2024-01-22)
+
 
 ### Bug Fixes
 
