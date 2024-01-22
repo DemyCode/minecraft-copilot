@@ -26,5 +26,5 @@ jobs:
           git checkout ${{ github.event.client_payload.branch }}
           cd ..
           git add ${{ github.event.client_payload.repository }}
-          git commit -m ${{ github.event.client_payload.message }}
+          git commit -m "${{ github.event.client_payload.message }}"
           git push origin ${{ github.event.client_payload.branch }} || git push --set-upstream origin ${{ github.event.client_payload.branch }}
