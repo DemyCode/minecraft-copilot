@@ -19,9 +19,9 @@ jobs:
         with:
           token: ${{ steps.generate-token.outputs.token }}
           submodules: recursive
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4.0.1
         with:
-          node-version: 12
+          node-version: 21
       - run: npm install -g commit-and-tag-version
       - run: commit-and-tag-version
       - run: git push --follow-tags
