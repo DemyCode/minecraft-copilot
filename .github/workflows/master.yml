@@ -23,4 +23,5 @@ jobs:
         with:
           node-version: 12
       - run: npm install -g commit-and-tag-version
+      - run: npm run commit-and-tag-version
       - run: git push --follow-tags
