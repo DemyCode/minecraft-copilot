@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file. See [commit
 
 ### Bug Fixes
 
+* creating the block proposal region ([8437cd9](https://github.com/DemyCode/minecraft-copilot/commit/8437cd9a74b825a62282cc9f8024fdb7e7cb0b4d))
+
+## 1.0.1 (2024-01-22)
+
+
+### Bug Fixes
+
 * aligning alignement file ([1b07f32](https://github.com/DemyCode/minecraft-copilot/commit/1b07f322c6960f66905023d88bf8ae747d2bbac5))
 
 ## 1.0.1 (2024-01-22)
