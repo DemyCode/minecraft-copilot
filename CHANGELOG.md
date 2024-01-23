@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.6](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.5...v1.2.6) (2024-01-23)
+
+
+### Bug Fixes
+
+* getting rid of synatx error ([c887146](https://github.com/DemyCode/minecraft-copilot/commit/c887146c3aded2fbfe9062f7679432861469b45d))
+
 ## [1.2.5](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.4...v1.2.5) (2024-01-23)
 
 
