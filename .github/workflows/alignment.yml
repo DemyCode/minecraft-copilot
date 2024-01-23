@@ -26,7 +26,7 @@ jobs:
           git checkout ${{ github.event.client_payload.branch }}
           cd ..
           git add ${{ github.event.client_payload.repository }}
-          COMMIT_MESSAGE=${{ github.event.client_payload.message }}
+          COMMIT_MESSAGE="${{ github.event.client_payload.message }}"
           if [ ${{ startsWith(github.event.client_payload.message, 'chore(release):') }} = true ]; then
             COMMIT_MESSAGE=${COMMIT_MESSAGE/release/${{ github.event.client_payload.repository }}}
           fi
