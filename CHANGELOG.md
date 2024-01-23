@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file. See [commit
 
 ### Features
 
+* adding sem release ([ea5e114](https://github.com/DemyCode/minecraft-copilot/commit/ea5e11495cd33007e32e9291026e0b802038c42b))
+
+## 1.1.0 (2024-01-23)
+
+
+### Features
+
 * loading onnx runtime files ([477889c](https://github.com/DemyCode/minecraft-copilot/commit/477889c75d69bdc54115f385ccd20cacd8bb46dc))
 
 ## 1.0.1 (2024-01-22)
