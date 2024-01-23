@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.5](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.4...v1.2.5) (2024-01-23)
+
+
+### Bug Fixes
+
+* now using starstWith chore release ([f28ffe5](https://github.com/DemyCode/minecraft-copilot/commit/f28ffe57d0e8f08957d048ddcd536c2f2daf7c69))
+
 ## [1.2.4](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.3...v1.2.4) (2024-01-23)
 
 
