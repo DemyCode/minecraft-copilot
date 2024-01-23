@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 1.1.0 (2024-01-23)
+
+
+### Features
+
+* loading onnx runtime files ([477889c](https://github.com/DemyCode/minecraft-copilot/commit/477889c75d69bdc54115f385ccd20cacd8bb46dc))
+
 ## 1.0.1 (2024-01-22)
 
 
