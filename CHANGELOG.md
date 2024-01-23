@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.3.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.12...v1.3.0) (2024-01-23)
+
+
+### Features
+
+* using black config for isort ([6b7ac02](https://github.com/DemyCode/minecraft-copilot/commit/6b7ac026b75c6b8333cda4a7e785b392e9afa348))
+
 ## [1.2.12](https://github.com/DemyCode/minecraft-copilot/compare/v1.2.11...v1.2.12) (2024-01-23)
 
 
