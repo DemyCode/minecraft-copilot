@@ -7,6 +7,13 @@ All notable changes to this project will be documented in this file. See [commit
 
 ### Bug Fixes
 
+* set fetch depth to 0 ([5694b6b](https://github.com/DemyCode/minecraft-copilot/commit/5694b6bbf76a59780e2cc80a32f5d2fb3cc14907))
+
+## 1.0.1 (2024-01-23)
+
+
+### Bug Fixes
+
 * changing commiter name ([eb7d3bf](https://github.com/DemyCode/minecraft-copilot/commit/eb7d3bf9b3c6110130a5fb342586d6e5980695c9))
 
 ## 1.1.0 (2024-01-23)
