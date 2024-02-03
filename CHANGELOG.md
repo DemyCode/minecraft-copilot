@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.1](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.0...v1.5.1) (2024-02-03)
+
+
+### Bug Fixes
+
+* changing name of minecraft copilot ml model ([c08486f](https://github.com/DemyCode/minecraft-copilot/commit/c08486fd6da845f5227ff8471bf34a1a792fe440))
+
 ## [1.5.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.4.5...v1.5.0) (2024-02-03)
 
 
