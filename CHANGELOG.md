@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.7](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.6...v1.5.7) (2024-02-03)
+
+
+### Bug Fixes
+
+* better smoothing tqdm ([db82cff](https://github.com/DemyCode/minecraft-copilot/commit/db82cffe177814c8d4f15b3e3497a30466d71479))
+
 ## [1.5.6](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.5...v1.5.6) (2024-02-03)
 
 ## [1.5.5](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.4...v1.5.5) (2024-02-03)
