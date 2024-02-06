@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.13](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.12...v1.5.13) (2024-02-06)
+
+
+### Bug Fixes
+
+* reducing cpu count ([850d48c](https://github.com/DemyCode/minecraft-copilot/commit/850d48cb222d9362f0eac6ca76f806fd6b307263))
+
 ## [1.5.12](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.11...v1.5.12) (2024-02-03)
 
 ## [1.5.11](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.10...v1.5.11) (2024-02-03)
