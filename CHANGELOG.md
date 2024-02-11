@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.17...v1.6.0) (2024-02-11)
+
+
+### Features
+
+* real training script ([a804dc5](https://github.com/DemyCode/minecraft-copilot/commit/a804dc5c5393adaf7724d93792559985ae428c13))
+
 ## [1.5.17](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.16...v1.5.17) (2024-02-08)
 
 ## [1.5.16](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.15...v1.5.16) (2024-02-06)
