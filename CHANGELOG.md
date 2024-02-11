@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.7.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.6.0...v1.7.0) (2024-02-11)
+
+
+### Features
+
+* making correct download and onnx session loading ([db61830](https://github.com/DemyCode/minecraft-copilot/commit/db61830a5187cca6c1def8d5c110c3223760c072))
+
 ## [1.6.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.5.17...v1.6.0) (2024-02-11)
 
 
