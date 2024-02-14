@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.8.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.7.2...v1.8.0) (2024-02-14)
+
+
+### Features
+
+* add coefficients on counts of blocks ([896eb4e](https://github.com/DemyCode/minecraft-copilot/commit/896eb4e585a7ba43b751ddf3377cb2b3c224746e))
+
+
+### Bug Fixes
+
+* adding new notebook ([616a01f](https://github.com/DemyCode/minecraft-copilot/commit/616a01fccd1fc7a67b1c8a5f621599ab2bd4280e))
+
 ## [1.7.2](https://github.com/DemyCode/minecraft-copilot/compare/v1.7.1...v1.7.2) (2024-02-11)
 
 ## [1.7.1](https://github.com/DemyCode/minecraft-copilot/compare/v1.7.0...v1.7.1) (2024-02-11)
