@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.8.8](https://github.com/DemyCode/minecraft-copilot/compare/v1.8.7...v1.8.8) (2024-02-17)
+
+
+### Bug Fixes
+
+* batchnorm is a failure ([5d46d04](https://github.com/DemyCode/minecraft-copilot/commit/5d46d044174b726ded55ead111f71668543a9258))
+
 ## [1.8.7](https://github.com/DemyCode/minecraft-copilot/compare/v1.8.6...v1.8.7) (2024-02-17)
 
 
