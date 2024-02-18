@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.9.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.8.8...v1.9.0) (2024-02-18)
+
+
+### Features
+
+* adding accuracy calculation in steps ([37efe78](https://github.com/DemyCode/minecraft-copilot/commit/37efe783b1d3bc0f0256e10b8bf22da3c7793747))
+
 ## [1.8.8](https://github.com/DemyCode/minecraft-copilot/compare/v1.8.7...v1.8.8) (2024-02-17)
 
 
