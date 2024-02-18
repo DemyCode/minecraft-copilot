@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.9.9](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.8...v1.9.9) (2024-02-18)
+
+
+### Bug Fixes
+
+* setting baseline to kleine hutte dataset ([abb71bc](https://github.com/DemyCode/minecraft-copilot/commit/abb71bcc9b9d8b70cd810d23cdf2e02ef8c6063e))
+
 ## [1.9.8](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.7...v1.9.8) (2024-02-18)
 
 
