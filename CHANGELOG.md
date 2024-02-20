@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.9.10](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.9...v1.9.10) (2024-02-20)
+
+
+### Bug Fixes
+
+* ITS WORKING ([b27923e](https://github.com/DemyCode/minecraft-copilot/commit/b27923ec83f18d48387bb3df5371c33652244b8c))
+
 ## [1.9.9](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.8...v1.9.9) (2024-02-18)
 
 
