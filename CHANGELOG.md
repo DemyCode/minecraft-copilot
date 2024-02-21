@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.10.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.17...v1.10.0) (2024-02-21)
+
+
+### Features
+
+* creating coverage on the fly7 ([18c856d](https://github.com/DemyCode/minecraft-copilot/commit/18c856dd8ea7b59926a9b40d45c8bb5667fcfbc0))
+
 ## [1.9.17](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.16...v1.9.17) (2024-02-21)
 
 
