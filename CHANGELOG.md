@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.9.16](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.15...v1.9.16) (2024-02-21)
+
+
+### Bug Fixes
+
+* using now poetry to do everything ([e79d585](https://github.com/DemyCode/minecraft-copilot/commit/e79d5855fd53b9a016551af1920d21e9f704ce4e))
+
 ## [1.9.15](https://github.com/DemyCode/minecraft-copilot/compare/v1.9.14...v1.9.15) (2024-02-21)
 
 
