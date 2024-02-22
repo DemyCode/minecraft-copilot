@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.11.2](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.1...v1.11.2) (2024-02-22)
+
+
+### Bug Fixes
+
+* action checkout with fetch depth 0 ([e349cfb](https://github.com/DemyCode/minecraft-copilot/commit/e349cfb66ddb837090c4619a6afde96db557da22))
+
 ## [1.11.1](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.0...v1.11.1) (2024-02-22)
 
 
