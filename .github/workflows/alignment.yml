@@ -31,4 +31,4 @@ jobs:
             COMMIT_MESSAGE=${COMMIT_MESSAGE/release/${{ github.event.client_payload.repository }}}
           fi
           git commit -m "${COMMIT_MESSAGE}"
-          git push origin ${{ github.event.client_payload.branch }} || git push --set-upstream origin ${{ github.event.client_payload.branch }}
+          git push origin ${{ github.event.client_payload.branch }} || git push --set-upstream origin ${{ github.event.client_payload.branch }} || echo "Push failed. See previous logs for details."
