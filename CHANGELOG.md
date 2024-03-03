@@ -2,6 +2,32 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.11.16](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.15...v1.11.16) (2024-03-03)
+
+## [1.11.15](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.14...v1.11.15) (2024-03-02)
+
+## [1.11.14](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.13...v1.11.14) (2024-03-02)
+
+
+### Bug Fixes
+
+* now creating PR as drafts ([fcc16af](https://github.com/DemyCode/minecraft-copilot/commit/fcc16af85cfce7c22d04186d50f5e4756773e4dd))
+
+## [1.11.13](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.12...v1.11.13) (2024-02-25)
+
+## [1.11.12](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.11...v1.11.12) (2024-02-25)
+
+## [1.11.11](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.10...v1.11.11) (2024-02-25)
+
+## [1.11.10](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.9...v1.11.10) (2024-02-25)
+
+## [1.11.9](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.8...v1.11.9) (2024-02-22)
+
+
+### Bug Fixes
+
+* making push fail not a fail ([6113a77](https://github.com/DemyCode/minecraft-copilot/commit/6113a7729f64dd66de7952fc145312d6afa61007))
+
 ## [1.11.8](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.7...v1.11.8) (2024-02-22)
 
 ## [1.11.7](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.6...v1.11.7) (2024-02-22)
