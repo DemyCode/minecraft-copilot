@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.11.21](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.20...v1.11.21) (2024-03-03)
+
+
+### Bug Fixes
+
+* adding git pull recurse submodules ([e9284da](https://github.com/DemyCode/minecraft-copilot/commit/e9284da8732d4eb112d6aa468ed6a1de59ac58de))
+
 ## [1.11.20](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.19...v1.11.20) (2024-03-03)
 
 
