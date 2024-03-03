@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.11.17](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.16...v1.11.17) (2024-03-03)
+
+
+### Bug Fixes
+
+* adding fetch for submodules ([cbd69dd](https://github.com/DemyCode/minecraft-copilot/commit/cbd69ddccf613dac2ef7ea975ee494a7b360128f))
+
 ## [1.11.16](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.15...v1.11.16) (2024-03-03)
 
 ## [1.11.15](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.14...v1.11.15) (2024-03-02)
