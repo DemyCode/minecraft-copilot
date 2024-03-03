@@ -21,9 +21,10 @@ jobs:
       - run: |
           git config --global user.name "DemyCode"
           git config --global user.email "verycols@gmail.com"
+          git config --global push.autoSetupRemote true
           git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
           cd ${{ github.event.client_payload.repository }}
-          git fetch origin ${{ github.event.client_payload.branch }}
+          git fetch --all
           git checkout ${{ github.event.client_payload.branch }}
           cd ..
           git add ${{ github.event.client_payload.repository }}
