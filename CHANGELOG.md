@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.0.0](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.22...v2.0.0) (2024-03-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* WE THE BEST TRAINING
+
+### Features
+
+* WE THE BEST TRAINING ([5dc98de](https://github.com/DemyCode/minecraft-copilot/commit/5dc98de0f2841505a3af259c94ab1acebe5f5916))
+
 ## [1.11.22](https://github.com/DemyCode/minecraft-copilot/compare/v1.11.21...v1.11.22) (2024-03-06)
 
 
