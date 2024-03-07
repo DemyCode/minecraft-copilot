@@ -21,6 +21,7 @@ jobs:
       - run: |
           git config --global user.name "DemyCode"
           git config --global user.email "verycols@gmail.com"
+          git fetch --all --recurse-submodules
           git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
           cd ${{ github.event.client_payload.repository }}
           git remote show origin
