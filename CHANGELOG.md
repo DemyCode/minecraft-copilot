@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.0](https://github.com/DemyCode/minecraft-copilot/compare/v2.0.5...v2.1.0) (2024-03-08)
+
+
+### Features
+
+* better README ([6b1d687](https://github.com/DemyCode/minecraft-copilot/commit/6b1d6875d82cfa041661ad92302523e13d5d498e))
+
+
+### Bug Fixes
+
+* adding fet recu ([72540b4](https://github.com/DemyCode/minecraft-copilot/commit/72540b4f7e7b69c404b462019ed412e81aae1cb6))
+* just showing oring ([158ecdf](https://github.com/DemyCode/minecraft-copilot/commit/158ecdf0118cedec1dade2a685de3f148f239700))
+
 ## [2.0.5](https://github.com/DemyCode/minecraft-copilot/compare/v2.0.4...v2.0.5) (2024-03-07)
 
 
