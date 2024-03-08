@@ -18,16 +18,13 @@ jobs:
         with:
           token: ${{ steps.generate-token.outputs.token }}
           submodules: recursive
+          fetch-depth: 0
       - run: |
           git config --global user.name "DemyCode"
           git config --global user.email "verycols@gmail.com"
-          git fetch --all --recurse-submodules
-          git submodule sync
-          git submodule update --init --recursive
           git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
           cd ${{ github.event.client_payload.repository }}
-          git fetch --all
-          git checkout ${{ github.event.client_payload.sha }}
+          git checkout origin/${{ github.event.client_payload.sha }}
           cd ..
           git add ${{ github.event.client_payload.repository }}
           COMMIT_MESSAGE="${{ github.event.client_payload.message }}"
