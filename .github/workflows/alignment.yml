@@ -18,19 +18,19 @@ jobs:
         with:
           token: ${{ steps.generate-token.outputs.token }}
           submodules: recursive
+      - run: git config --global user.name "DemyCode"
+      - run: git config --global user.email "verycols@gmail.com"
+      - run: git fetch --all --recurse-submodules
+      - run: git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
+      - run: cd ${{ github.event.client_payload.repository }}
+      - run: git fetch --all
+      - run: git checkout -b ${{ github.event.client_payload.branch }} --track origin/${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
+      - run: cd ..
+      - run: git add ${{ github.event.client_payload.repository }}
+      - run: COMMIT_MESSAGE="${{ github.event.client_payload.message }}"
       - run: |
-          git config --global user.name "DemyCode"
-          git config --global user.email "verycols@gmail.com"
-          git fetch --all --recurse-submodules
-          git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
-          cd ${{ github.event.client_payload.repository }}
-          git fetch --all
-          git checkout -b ${{ github.event.client_payload.branch }} --track origin/${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
-          cd ..
-          git add ${{ github.event.client_payload.repository }}
-          COMMIT_MESSAGE="${{ github.event.client_payload.message }}"
           if [ ${{ startsWith(github.event.client_payload.message, 'chore(release):') }} = true ]; then
             COMMIT_MESSAGE=${COMMIT_MESSAGE/release/${{ github.event.client_payload.repository }}}
           fi
-          git commit -m "${COMMIT_MESSAGE}"
-          git push origin ${{ github.event.client_payload.branch }} || git push --set-upstream origin ${{ github.event.client_payload.branch }} || echo "Push failed. See previous logs for details."
+      - run: git commit -m "${COMMIT_MESSAGE}"
+      - run: git push origin ${{ github.event.client_payload.branch }} || git push --set-upstream origin ${{ github.event.client_payload.branch }} || echo "Push failed. See previous logs for details."
