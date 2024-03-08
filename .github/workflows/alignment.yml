@@ -25,7 +25,7 @@ jobs:
           git checkout -b ${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
           cd ${{ github.event.client_payload.repository }}
           git fetch --all
-          git checkout -b ${{ github.event.client_payload.branch }} --track origin/${{ github.event.client_payload.branch }} || git checkout ${{ github.event.client_payload.branch }}
+          git checkout -b ${{ github.event.client_payload.branch }} --track origin/${{ github.event.client_payload.branch }} || git checkout origin/${{ github.event.client_payload.branch }}
           cd ..
           git add ${{ github.event.client_payload.repository }}
           COMMIT_MESSAGE="${{ github.event.client_payload.message }}"
