@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.20](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.19...v2.1.20) (2024-03-15)
+
+
+### Bug Fixes
+
+* add option to cut dataset from the beginning ([e3d9773](https://github.com/DemyCode/minecraft-copilot/commit/e3d977377690786db679bf1f9751addd2e0b3f3f))
+
 ## [2.1.19](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.18...v2.1.19) (2024-03-15)
 
 ## [2.1.18](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.17...v2.1.18) (2024-03-09)
