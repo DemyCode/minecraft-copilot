@@ -10,18 +10,12 @@ If you want to help you can try one of those things :
 - Contribute to the codebase : https://github.com/users/DemyCode/projects/5
 - Donate (not enabled for now)
 
-## Players
+## Try it !
 
-Hello and welcome to Minecraft Copilot !
-If you are player just check the Releases tab and you will be able to download the corresponding mod version.
+Just check the Releases panel on the right and download the latest release. (TBD later)
+For now the Releases is empty so clone Minecraft Copilot Mod repo and run "./gradlew runClient"
 
-## Mod Programmers
-https://github.com/DemyCode/minecraft-copilot-mod
+## Repository
 
-This repository is the code for Minecraft Copilot Forge Mod. 
-To try it out yourself clone the repo and type './gradlew runClient'
-
-## Research scientists
-https://github.com/DemyCode/minecraft-copilot-ml
-
-This repository aims to research the best ML Model for your copilot.
+This repository is an alignment between multiple bricks of the mod.
+In this repository you will find the whole codebase and serves as a reference for mod you are running.
