@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.27](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.26...v2.1.27) (2024-03-17)
+
+
+### Bug Fixes
+
+* training with noisy loss is bad ([ea6a0fc](https://github.com/DemyCode/minecraft-copilot/commit/ea6a0fc2de0032b0039c96af9b1f9e2221879df5))
+
 ## [2.1.26](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.25...v2.1.26) (2024-03-16)
 
 
