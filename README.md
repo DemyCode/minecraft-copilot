@@ -19,3 +19,7 @@ For now the Releases is empty so clone Minecraft Copilot Mod repo and run "./gra
 
 This repository is an alignment between multiple bricks of the mod.
 In this repository you will find the whole codebase and serves as a reference for mod you are running.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DemyCode/minecraft-copilot&type=Date)](https://star-history.com/#DemyCode/minecraft-copilot&Date)
