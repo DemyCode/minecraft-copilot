@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.61](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.60...v2.1.61) (2024-05-10)
+
+
+### Bug Fixes
+
+* run with sagemaker ([4ff00e5](https://github.com/DemyCode/minecraft-copilot/commit/4ff00e53a32dd321fd12499a7cbb9e7ec279372f))
+
 ## [2.1.60](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.59...v2.1.60) (2024-05-10)
 
 
