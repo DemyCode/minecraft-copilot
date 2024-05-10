@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.60](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.59...v2.1.60) (2024-05-10)
+
+
+### Bug Fixes
+
+* stdout on every tqdm flush ([43f4d53](https://github.com/DemyCode/minecraft-copilot/commit/43f4d53e9978c8a36e40aae333e51943565c073e))
+
 ## [2.1.59](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.58...v2.1.59) (2024-05-10)
 
 
