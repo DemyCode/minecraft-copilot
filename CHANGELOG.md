@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.55](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.54...v2.1.55) (2024-05-10)
+
+
+### Bug Fixes
+
+* smaller image size but concat RUNs ([26ec178](https://github.com/DemyCode/minecraft-copilot/commit/26ec1780b8c37f28ee20439158389e10fd33b15b))
+
 ## [2.1.54](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.53...v2.1.54) (2024-05-10)
 
 
