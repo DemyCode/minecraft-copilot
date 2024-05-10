@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.62](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.61...v2.1.62) (2024-05-10)
+
+
+### Bug Fixes
+
+* eu west 3 for aws training ([90594ab](https://github.com/DemyCode/minecraft-copilot/commit/90594abb1ceb19311e0c972d1bf37575b36056bb))
+
 ## [2.1.61](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.60...v2.1.61) (2024-05-10)
 
 
