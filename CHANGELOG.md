@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.1.66](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.65...v2.1.66) (2024-05-10)
+
+
+### Bug Fixes
+
+* ohyeah ([8cadf75](https://github.com/DemyCode/minecraft-copilot/commit/8cadf75be4e367a2e63b85db88cc539218085915))
+
 ## [2.1.65](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.64...v2.1.65) (2024-05-10)
 
 
