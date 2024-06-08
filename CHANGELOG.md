@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.2.1](https://github.com/DemyCode/minecraft-copilot/compare/v2.2.0...v2.2.1) (2024-06-08)
+
+
+### Bug Fixes
+
+* making smoother KLD calculations through mean ([c13fc0a](https://github.com/DemyCode/minecraft-copilot/commit/c13fc0ae153c6c57dae5d664017b989ddccefdb7))
+
 ## [2.2.0](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.71...v2.2.0) (2024-06-08)
 
 
