@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [2.2.0](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.71...v2.2.0) (2024-06-08)
+
+
+### Features
+
+* the age of the VAE ([199b4dc](https://github.com/DemyCode/minecraft-copilot/commit/199b4dcba36e24bccd0cbd37d2fa835020d8d50b))
+
 ## [2.1.71](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.70...v2.1.71) (2024-05-17)
 
 ## [2.1.70](https://github.com/DemyCode/minecraft-copilot/compare/v2.1.69...v2.1.70) (2024-05-17)
